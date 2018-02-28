@@ -1,0 +1,9 @@
+{
+  "Records": [
+    {
+      "Sns": {
+        "Message": "{\"template\":\"arn:aws:inspector:us-east-2:581294147108:target/0-0aczBfW8/template/0-F1glPOZd\",\"run\":\"arn:aws:inspector:us-east-2:581294147108:target/0-0aczBfW8/template/0-F1glPOZd/run/0-bZ5HRjwB\",\"time\":\"2018-02-27T15:07:38.056Z\",\"event\":\"ASSESSMENT_RUN_STARTED\",\"target\":\"arn:aws:inspector:us-east-2:581294147108:target/0-0aczBfW8\"}"
+      }
+    }
+  ]
+}
